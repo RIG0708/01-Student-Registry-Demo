@@ -3,7 +3,7 @@ pipeline {
 
      enviroment {
          NODE_VERSION = '21.7.3'
-         SERVICE ID = 'render-service-id'
+         SERVICE_ID = 'render-service-id'
          RENDER_API_KEY = 'render-api-key'
      }
 
